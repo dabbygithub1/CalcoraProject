@@ -8,7 +8,7 @@ const HomePage = () => {
           					<div className="container">
             						<b className="heading-2">Как это работает</b>
             						<div className="backgroundbordershadow">
-              							<img className="svg-icon" alt="" src="SVG.svg" />
+              							<img className="svg-icon" alt="" src="/assets/images/chelovechki.svg" />
               							<div className="heading-3">Зарегистрируйся</div>
               							<div className="div">
                 								<p className="p">Создайте личный кабинет</p>
@@ -17,7 +17,7 @@ const HomePage = () => {
               							</div>
             						</div>
             						<div className="backgroundbordershadow1">
-              							<img className="svg-icon" alt="" src="SVG.svg" />
+              							<img className="svg-icon" alt="" src="/assets/images/chemodan.svg" />
               							<div className="heading-31">Выбери профессию</div>
               							<div className="div1">
                 								<p className="p">Укажите вашу сферу</p>
@@ -26,7 +26,7 @@ const HomePage = () => {
               							</div>
             						</div>
             						<div className="backgroundbordershadow2">
-              							<img className="svg-icon" alt="" src="SVG.svg" />
+              							<img className="svg-icon" alt="" src="/assets/images/listik.svg" />
               							<div className="heading-32">Укажи дни и доход</div>
               							<div className="div2">
                 								<p className="p">Введите информацию о</p>
@@ -34,7 +34,7 @@ const HomePage = () => {
               							</div>
             						</div>
             						<div className="backgroundbordershadow3">
-              							<img className="svg-icon" alt="" src="SVG.svg" />
+              							<img className="svg-icon" alt="" src="/assets/images/raschet.svg" />
               							<div className="heading-33">Получи расчёт</div>
               							<div className="div3">
                 								<p className="p">Получите детальный расчет</p>
@@ -44,16 +44,16 @@ const HomePage = () => {
           					</div>
         				</div>
         				<div className="section1">
-          					<img className="svg-icon4" alt="" src="SVG.svg" />
+          					<img className="svg-icon4" alt="" src="/assets/images/zamochek.svg" />
           					<div className="heading-4">Безопасно</div>
           					<div className="div4">Ваши данные надежно зашифрованы и недоступны третьим лицам</div>
-          					<img className="svg-icon5" alt="" src="SVG.svg" />
+          					<img className="svg-icon5" alt="" src="/assets/images/chemodan2.svg" />
           					<div className="heading-41">Много профессий</div>
           					<div className="div5">Поддержка различных сфер деятельности и типов занятости</div>
-          					<img className="svg-icon6" alt="" src="SVG.svg" />
+          					<img className="svg-icon6" alt="" src="/assets/images/history.svg" />
           					<div className="heading-42">История расчётов</div>
           					<div className="div6">Сохранение всех ваших расчетов с возможностью просмотра</div>
-          					<img className="svg-icon7" alt="" src="SVG.svg" />
+          					<img className="svg-icon7" alt="" src="/assets/images/nastroek.svg" />
           					<div className="heading-43">Настройка</div>
           					<div className="div7">Персонализация настроек калькулятора</div>
         				</div>
@@ -86,7 +86,7 @@ const HomePage = () => {
                 								<div className="background1" />
                 								<div className="overlayshadowoverlayblur">
                   									<div className="background2">
-                    										<img className="svg-icon8" alt="" src="SVG.svg" />
+                    										<img className="svg-icon8" alt="" src="/assets/images/calculator.svg" />
                     										<div className="background3">
                       											<div className="background4">
                         												<b className="b1">$</b>
@@ -111,11 +111,11 @@ const HomePage = () => {
                   									<div className="heading-35">Контакты</div>
                   									<div className="list">
                     										<div className="link2">
-                      											<img className="svg-icon9" alt="" src="SVG.svg" />
+                      											<img className="svg-icon9" alt="" src="/assets/images/email.svg" />
                       											<div className="vladpashkevich88gmailcom">vladpashkevich88@gmail.com</div>
                     										</div>
                     										<div className="link3">
-                      											<img className="svg-icon9" alt="" src="SVG.svg" />
+                      											<img className="svg-icon9" alt="" src="/assets/images/phone.svg" />
                       											<div className="div13">+375 (29) 237-19-27</div>
                     										</div>
                   									</div>
@@ -128,19 +128,19 @@ const HomePage = () => {
                   									<div className="div14">Главная</div>
                 								</div>
                 								<div className="link5">
-                  									<img className="svg-icon11" alt="" src="SVG.svg" />
+                  									<img className="svg-icon11" alt="" src="/assets/icons/calculatorshapka.svg" />
                   									<div className="div15">Калькулятор</div>
                 								</div>
                 								<div className="link6">
-                  									<img className="svg-icon11" alt="" src="SVG.svg" />
+                  									<img className="svg-icon11" alt="" src="/assets/icons/chemodanshapka.svg" />
                   									<div className="div16">Профессии</div>
                 								</div>
                 								<div className="link7">
-                  									<img className="svg-icon11" alt="" src="SVG.svg" />
+                  									<img className="svg-icon11" alt="" src="/assets/icons/phoneshapka.svg" />
                   									<div className="div17">Контакты</div>
                 								</div>
                 								<div className="link8">
-                  									<img className="svg-icon11" alt="" src="SVG.svg" />
+                  									<img className="svg-icon11" alt="" src="/assets/icons/infoshapka.svg" />
                   									<div className="div18">О нас</div>
                 								</div>
                 								<div className="link9">
